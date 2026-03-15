@@ -293,6 +293,7 @@ nav a {
 
     nav ul {
         gap: 14px;
+        margin-left: auto;
     }
 
     .hero {
